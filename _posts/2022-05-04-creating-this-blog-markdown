@@ -17,7 +17,7 @@ Im Terminal:
 
 Dies installiert jekyll.
 
-Danach navigierst du im Terminal zu einem Ordner deiner Wahl (`cd`) und kannst nun mit 
+Danach navigierst du im Terminal zu einem Ordner deiner Wahl (`cd`) und kannst nun mit
 `jekyll der-name-deines-Blogs` deine Seite generieren.
 
 Wenn du deine Seite bei github hosten möchtest, musst du darauf achten, das "der-name-deines-Blogs" deinem Nutzernamen bei github + "github.io" entspricht.
@@ -26,6 +26,6 @@ Bei meinem Beispiel wäre das "tenksom.github.io"
 
 Nun hat jekyll einen Ordner mit dem Namen deines Projektes angelegt. Gehe in diesen.
 
-Ich werde dieses Tutorial später weiterführen, muss mich aber erstmal um die Schule kümmern. 
+Ich werde dieses Tutorial später weiterführen, muss mich aber erstmal um die Schule kümmern.
 
 Bis dahin!
