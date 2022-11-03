@@ -8,8 +8,6 @@ Hey!
 
 Willkommen auf meinem Blog.
 
-Ich bin Joachim, 18 Jahre alt. Ich schreibe zur Zeit mein Abitur, lerne aber nebenbei noch Programmiersprachen wir zum Beispiel Python, Java.
+Ich bin Joachim, 18 Jahre alt und komme aus Dresden! Zur Zeit studiere ich an der TU Dresden Diplom Informatik. Ich beschäftige mich nebenbei mit allen möglichen Zeugs und betreibe unter anderem diesen Blog.
 
-Ich eigne mir gerade machine learning an.
-
-Vielen Dank das du dich für meinen Blog interresierst!
+Schön das du dich für mich und meine Projekte interessierst!
