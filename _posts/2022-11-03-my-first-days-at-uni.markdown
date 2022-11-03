@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meine ersten Tage an der Technischen Universität Dresden
+title: "Meine ersten Tage an der Technischen Universität Dresden"
 ---
 
 Ich melde mich auch einmal wieder zurück.
