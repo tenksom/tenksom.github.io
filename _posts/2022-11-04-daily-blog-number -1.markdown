@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ein typische Tag im Leben eines Informatik Ersties"
+title: "Ein typischer Tag im Leben eines Informatik Ersties"
 ---
 
 Heute war mal wieder ein ganz normaler Tag. Angefangen hat dieser aber schon relativ früh, da wir schon um 7.30 die erste Übung hatten. Diese ging aber dank unserem guten Übungsleiter schnell vorbei und wir begaben uns in das Hörsaalzentrum, in welchem wir die nächste Vorlesung hatten: Algorithmen und Datenstrukturen.
