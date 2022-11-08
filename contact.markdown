@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kontakiere mich!
+title: Contact
 permalink: /contact/
 ---
 
