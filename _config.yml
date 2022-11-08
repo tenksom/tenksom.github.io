@@ -21,9 +21,9 @@
 title: "Joachim Stramke"
 email: joachim@stramke.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog über dies und das
+  Blog über mein Leben als Informatikstudent 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://joachim.stramke.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: j_stramke
 github_username:  tenksom
 
