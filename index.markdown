@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hier sollte jetzt irgendwas kommen, habe aber noch nichts. Wenn du mich kontaktieren möchtest, schaue [hier](/contact) 
